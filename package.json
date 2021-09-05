@@ -17,14 +17,15 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "concurrently": "^5.1.0"
-  },
+  
   "dependencies": {
     "@apollo/react-hooks": "^4.0.0",
     "apollo-server-express": "^3.3.0",
     "graphql": "^15.5.2",
     "if-env": "^1.0.4",
     "json-web-token": "^3.2.0"
+  },
+  "devDependencies": {
+    "concurrently": "^5.1.0"
   }
 }
